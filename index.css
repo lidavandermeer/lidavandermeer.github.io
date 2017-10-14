@@ -9,7 +9,7 @@ h1 {
     font-family: 'Helvetica Neue', sans-serif;
     font-weight: 600;
     font-style: italic;
-    color: #DF3F3F;
+    color: #B87700;
     letter-spacing: 2px;
 }
 
@@ -18,7 +18,7 @@ h2 {
     font-family: 'Helvetica Neue', sans-serif;
     font-weight: 600;
     font-style: italic;
-    color: #DF3F3F;
+    color: #B87700;
     letter-spacing: 1px;
 }
 
@@ -76,7 +76,7 @@ p {
     font-family: 'Helvetica Neue', sans-serif;
     font-weight: 600;
     font-style: italic;
-    color: #DF3F3F;
+    color: #B87700;
     letter-spacing: 1px;
 }
 
@@ -100,7 +100,7 @@ p {
 #list a:hover {
     font-family: 'Helvetica Neue', sans-serif;
     font-weight: 400;
-    color: #DF3F3F;
+    color: #B87700;
     text-decoration: none;
 }
 
@@ -155,7 +155,7 @@ p {
     font-family: 'Helvetica Neue', sans-serif;
     font-weight: 600;
     font-style: italic;
-    color: #DF3F3F;
+    color: #B87700;
     letter-spacing: 1px;
 }
 
@@ -179,7 +179,7 @@ p {
 #list a:hover {
     font-family: 'Helvetica Neue', sans-serif;
     font-weight: 400;
-    color: #DF3F3F;
+    color: #B87700;
     text-decoration: none;
 }
 
@@ -269,7 +269,7 @@ p {
     font-size: 15px;
     font-family: 'Helvetica Neue', sans-serif;
     font-weight: 300;
-    color: #DF3F3F;
+    color: #B87700;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -279,7 +279,7 @@ p {
     font-size: 15px;
     font-family: 'Helvetica Neue', sans-serif;
     font-weight: 300;
-    color: #DF3F3F;
+    color: #B87700;
     margin-top: 5px;
 }
 
@@ -369,7 +369,7 @@ p {
     margin: 0;
     padding: 0;
     text-decoration: none;
-    color: #DF3F3F;
+    color: #B87700;
 
 }
 
@@ -390,7 +390,7 @@ p {
 #writing p a:hover{
     margin: 0;
     padding: 0;
-    color: #DF3F3F;
+    color: #B87700;
     padding-top: 5px;
     font-style: italic;
 
